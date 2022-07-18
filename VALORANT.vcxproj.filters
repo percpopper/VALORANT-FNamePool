@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="VALORANT">
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Misc">
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Misc\ImSorryForTheQualityOfThis.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc\AllignmentTemplates.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="VALORANT\FNamePool.h">
+      <Filter>VALORANT</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc\Types.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="VALORANT\VALORANT.h">
+      <Filter>VALORANT</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp" />
+  </ItemGroup>
+</Project>
