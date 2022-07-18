@@ -1,6 +1,9 @@
 ﻿#include <VALORANT/VALORANT.h>
 
 /*
+
+this art only showing up properly on vs not on github lol im too lazy to fix fuck off
+
 									 '."""""""""""""""""`.
 									   `.       ...       `.
 										 `.    /   `.       `.
