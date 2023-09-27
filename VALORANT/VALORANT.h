@@ -11,8 +11,8 @@ class FNamePool* NamePoolData = nullptr;
 
 #define FileName "\\FNamePool_Entries_Log.txt"
 
-#define DecryptWideOffset 0x3A0BE70
-#define DecryptNonWideOffset 0x3A0BE00 
-#define NamePoolDataOffset 0x9C9FB40
+#define DecryptWideOffset 0x3B09F90
+#define DecryptNonWideOffset 0x3B09F20 
+#define NamePoolDataOffset 0x9EB5580
 
 #include <VALORANT/FNamePool.h>
